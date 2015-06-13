@@ -32,14 +32,14 @@ img{border:0px;}
 
 /*头部*/
 .header{
-	background-image: url(/images/header_bg.jpg);
+	background-image: url(../images/header_bg.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	height: 225px;
 }
 
 .x_dh{
-	background-image: url(/images/hang_index.jpg);
+	background-image: url(../images/hang_index.jpg);
 	height: 39px;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -96,7 +96,7 @@ img{border:0px;}
 .wrapper .sidebar .s_con ul li a{
 	color: #FFF;
 	font-size: 15px;
-	background-image: url(/images/nav_li_a2.png);
+	background-image: url(../images/nav_li_a2.png);
 	background-repeat: no-repeat;
 	background-position: center center;
 	height: 39px;
@@ -105,13 +105,13 @@ img{border:0px;}
 	line-height: 39px;
 }
 .wrapper .sidebar .s_con ul li a:hover{
-	background-image: url(/images/nav_li_a.png);
+	background-image: url(../images/nav_li_a.png);
 	color: #333;
 }
 .wrapper .sidebar .s_con ul li a.hover{
 	color: #333;
 	font-size: 15px;
-	background-image: url(/images/nav_li_a.png);
+	background-image: url(../images/nav_li_a.png);
 	background-repeat: no-repeat;
 	background-position: center center;
 	height: 39px;
@@ -160,7 +160,7 @@ img{border:0px;}
 }
 .wrapper .content .list_new ul li{
 	line-height: 30px;
-	background-image: url(/images/li_05.jpg);
+	background-image: url(../images/li_05.jpg);
 	background-repeat: no-repeat;
 	background-position: 10px center;
 	height: 30px;
@@ -252,7 +252,7 @@ img{border:0px;}
 	height:25px;
 	line-height:26px!important;
 	line-height:25px;
-	background-image: url(/images/ioc_01.jpg);
+	background-image: url(../images/ioc_01.jpg);
 	background-repeat: no-repeat;
 	background-position: left center;
 	padding-left: 10px;
@@ -274,7 +274,7 @@ img{border:0px;}
 	width:258px; height:205px; overflow:hidden;
 }
 .kkk2 .tit{
-	background-image: url(/images/tit_02_bg.jpg);
+	background-image: url(../images/tit_02_bg.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	height: 37px;
@@ -461,8 +461,8 @@ overflow:hidden;
 	padding: 1px;
 }
 .hl_main5_content1 ul li img{ width:152px; }
-.hl_scrool_leftbtn{width:25px; height:35px; background:url(/images/hl_scroll_left.jpg) no-repeat; float:left; margin-top:60px; margin-left:20px!important; margin-left:10px; cursor:pointer;}
-.hl_scrool_rightbtn{width:25px; height:35px; background:url(/images/hl_scroll_right.jpg) no-repeat; float:right;margin-top:60px; margin-right:20px!important; margin-right:10px; cursor:pointer;}
+.hl_scrool_leftbtn{width:25px; height:35px; background:url(../images/hl_scroll_left.jpg) no-repeat; float:left; margin-top:60px; margin-left:20px!important; margin-left:10px; cursor:pointer;}
+.hl_scrool_rightbtn{width:25px; height:35px; background:url(../images/hl_scroll_right.jpg) no-repeat; float:right;margin-top:60px; margin-right:20px!important; margin-right:10px; cursor:pointer;}
 
 
 .s{

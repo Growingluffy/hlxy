@@ -1,0 +1,37 @@
+{
+    "res": {
+        "css/kefu.css": {
+            "uri": "./css/kefu_65dc494.css",
+            "type": "css"
+        },
+        "css/sliderPlay-2.0.min.css": {
+            "uri": "./css/sliderPlay-2.0.min_6c9d4cc.css",
+            "type": "css"
+        },
+        "css/style.css": {
+            "uri": "./css/style_8ad3ec7.css",
+            "type": "css"
+        },
+        "js/dropdown.js": {
+            "uri": "./js/dropdown_4691f17.js",
+            "type": "js"
+        },
+        "js/jquery-SliderPlay-2.0.min.js": {
+            "uri": "./js/jquery-SliderPlay-2.0.min_b5bb4b1.js",
+            "type": "js"
+        },
+        "js/jquery.min.js": {
+            "uri": "./js/jquery.min_33d8513.js",
+            "type": "js"
+        },
+        "js/kefu.js": {
+            "uri": "./js/kefu_48a6ade.js",
+            "type": "js"
+        },
+        "js/newsScroll.js": {
+            "uri": "./js/newsScroll_cfd4d87.js",
+            "type": "js"
+        }
+    },
+    "pkg": {}
+}

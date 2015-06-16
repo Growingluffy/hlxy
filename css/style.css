@@ -361,11 +361,11 @@ img{border:0px;}
 	line-height: 49px;
 	display:block;
 	overflow:hidden;
-	background-color: #993333;
-	background-repeat:repeat-x;
-	background-position: left top;
 }
 #navMenu ul{
+	margin: 0 auto;
+	width: 980px;
+	overflow: hidden;
 }
 #navMenu .onelink{
 background-image:none;}
@@ -376,10 +376,11 @@ background-image:none;}
 	line-height: 49px;
 	height: 49px;
 	/*background-image: url(../images/nav_li_r_bg.jpg);*/
-	border-right: solid 2px rgb(247, 249, 240);
-	background-repeat: no-repeat;
-	background-position: left center;
+	border: solid 2px rgb(247, 249, 240);
 	margin-left: -2px;
+	background-color: #993333;
+	border-radius: 10px;
+
 }
 #navMenu li:nth-last-child(1) {
 	border-right: none;
